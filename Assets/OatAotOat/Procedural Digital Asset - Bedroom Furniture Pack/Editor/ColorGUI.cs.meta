@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cb3aa77fd63b5d141b9eafb6b5c76140
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 382126
+  packageName: OatAotOat's Procedural Digital Asset - Bedroom Furniture Pack
+  packageVersion: 1.0
+  assetPath: Assets/OatAotOat/Procedural Digital Asset - Bedroom Furniture Pack/Editor/ColorGUI.cs
+  uploadId: 923910

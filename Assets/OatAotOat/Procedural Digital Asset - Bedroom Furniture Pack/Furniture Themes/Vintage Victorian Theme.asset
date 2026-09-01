@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e923a13512251c4e9c2c9ed69c4eeaf, type: 3}
+  m_Name: Vintage Victorian Theme
+  m_EditorClassIdentifier: 
+  primaryColor: {r: 0.4, g: 0.101960786, b: 0.101960786, a: 1}
+  secondaryColor: {r: 0.101960786, g: 0.101960786, b: 0.4, a: 1}
+  globalLegThickness: 0.08
+  globalFrameThickness: 0.06
+  globalLegSplayAngle: 0
+  globalCushionThickness: 0.1
+  forceFourLegs: 0
+  useSkirtsAndStretchers: 1
